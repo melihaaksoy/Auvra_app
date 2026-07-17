@@ -1,5 +1,7 @@
 # Auvra
-
+<p align="center">
+  <img src="assets/logo/Auvra_Logo.png" width="160" alt="Auvra Logo">
+</p>
 **AI-powered dating focused on compatibility and meaningful connections.**
 
 Auvra is a mobile dating application that uses profile information, preferences, and AI-assisted analysis to recommend potentially compatible matches.
