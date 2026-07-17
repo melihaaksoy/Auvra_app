@@ -1,0 +1,23 @@
+# Secrets and environment files
+.env
+.env.*
+google-services.json
+GoogleService-Info.plist
+service-account*.json
+
+# Signing and certificate files
+*.jks
+*.keystore
+*.pem
+*.p12
+*.key
+
+# Logs
+*.log
+firebase-debug.log
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
