@@ -5,7 +5,12 @@
 Auvra is a mobile dating application that uses profile information, preferences, and AI-assisted analysis to recommend potentially compatible matches.
 
 > This repository is a public product showcase. The source code, credentials, infrastructure configuration, AI prompts, security rules, and proprietary matching logic are private.
-
+<p align="Center">
+  <img src="assets/screenshots/Gender_Selection.png" width="210">
+  <img src="assets/screenshots/Login_Signup_Page.png" width="210">
+  <img src="assets/screenshots/Signup_page.png" width="210">
+  <img src="assets/screenshots/Profile_Screen.png" width="210">
+</p>
 ## Features
 
 * User registration and authentication
